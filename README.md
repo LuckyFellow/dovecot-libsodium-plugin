@@ -8,8 +8,8 @@ Requires installed libsodium: https://download.libsodium.org/doc/installation/
 ./autogen.sh  
 ./configure  
 make  
-  
 sudo make install  
+  
   
 **Test the plugin:**  
 doveadm pw -s scrypt  
